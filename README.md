@@ -1,1 +1,1 @@
-# GreatestCommonMultiplier
+# GreatestCommonFactor
